@@ -1,4 +1,4 @@
 module CNIOZlib {
-    umbrella "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOZlib/include"
+    umbrella "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio.git--5437097829949721943/Sources/CNIOZlib/include"
     export *
 }
