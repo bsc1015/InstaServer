@@ -5,7 +5,7 @@ let package = Package(
     name: "InstaServer",
     dependencies: [
         // 💧 A server-side Swift web framework.
-        .package(url: "https://github.com/vapor/vapor.git", .upToNextMajor(from: "3.0.0")),
+        .package(url: "https://github.com/vapor/vapor.git", .exact("3.0.0")),
         
         .package(url: "https://github.com/vapor/auth.git", .upToNextMajor(from: "2.0.0")),
         
