@@ -1,0 +1,82 @@
+{
+  "": {
+    "dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Async.d",
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Async.o",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/master.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Async/Async+NIO.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Async+NIO.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Async+NIO~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Async+NIO.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Async/AsyncError.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/AsyncError.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/AsyncError~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/AsyncError.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Async/Collection+Future.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Collection+Future.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Collection+Future~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Collection+Future.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Async/Deprecated.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Deprecated.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Deprecated.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Async/Exports.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Exports.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Exports.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+DoCatch.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+DoCatch.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+DoCatch~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+DoCatch.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+Flatten.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+Flatten.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+Flatten~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+Flatten.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+Global.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+Global.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+Global~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+Global.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+Map.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+Map.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+Map~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+Map.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+Transform.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+Transform.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+Transform~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+Transform.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+Variadic.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+Variadic.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+Variadic~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+Variadic.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+Void.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+Void.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+Void~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Future+Void.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Async/FutureType.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/FutureType.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/FutureType~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/FutureType.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Async/QueueHandler.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/QueueHandler.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/QueueHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/QueueHandler.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Async/Worker.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Worker.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Worker~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Async.build/Worker.swiftdeps"
+  }
+}

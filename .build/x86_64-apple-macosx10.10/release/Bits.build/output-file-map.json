@@ -1,0 +1,67 @@
+{
+  "": {
+    "dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Bits.d",
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Bits.o",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/master.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Bits/BitsError.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/BitsError.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/BitsError~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/BitsError.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Byte+Alphabet.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Byte+Alphabet.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Byte+Alphabet~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Byte+Alphabet.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Byte+Control.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Byte+Control.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Byte+Control~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Byte+Control.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Byte+Digit.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Byte+Digit.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Byte+Digit~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Byte+Digit.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Bits/ByteBuffer+binaryFloatingPointOperations.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/ByteBuffer+binaryFloatingPointOperations.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/ByteBuffer+binaryFloatingPointOperations~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/ByteBuffer+binaryFloatingPointOperations.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Bits/ByteBuffer+peek.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/ByteBuffer+peek.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/ByteBuffer+peek~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/ByteBuffer+peek.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Bits/ByteBuffer+require.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/ByteBuffer+require.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/ByteBuffer+require~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/ByteBuffer+require.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Bits/ByteBuffer+string.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/ByteBuffer+string.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/ByteBuffer+string~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/ByteBuffer+string.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Bytes.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Bytes.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Bytes~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Bytes.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Data+Bytes.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Data+Bytes.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Data+Bytes~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Data+Bytes.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Data+Strings.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Data+Strings.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Data+Strings~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Data+Strings.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Deprecated.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Deprecated.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Bits.build/Deprecated.swiftdeps"
+  }
+}

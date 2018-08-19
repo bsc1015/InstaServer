@@ -1,0 +1,212 @@
+{
+  "": {
+    "dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateKit.d",
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateKit.o",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/master.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/AST/TemplateConditional.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/AST/TemplateConditional.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateConditional~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateConditional.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/AST/TemplateConstant.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/AST/TemplateConstant.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateConstant~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateConstant.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/AST/TemplateCustom.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/AST/TemplateCustom.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateCustom~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateCustom.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/AST/TemplateDataContext.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/AST/TemplateDataContext.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateDataContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateDataContext.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/AST/TemplateEmbed.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/AST/TemplateEmbed.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateEmbed~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateEmbed.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/AST/TemplateExpression.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/AST/TemplateExpression.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateExpression~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateExpression.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/AST/TemplateIdentifier.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/AST/TemplateIdentifier.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateIdentifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateIdentifier.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/AST/TemplateIterator.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/AST/TemplateIterator.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateIterator~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateIterator.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/AST/TemplateRaw.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/AST/TemplateRaw.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateRaw~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateRaw.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/AST/TemplateSource.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/AST/TemplateSource.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateSource~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateSource.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/AST/TemplateSyntax.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/AST/TemplateSyntax.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateSyntax~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateSyntax.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/AST/TemplateSyntaxType.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/AST/TemplateSyntaxType.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateSyntaxType~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateSyntaxType.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/AST/TemplateTag.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/AST/TemplateTag.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateTag~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateTag.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Data/TemplateData.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Data/TemplateData.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateData~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateData.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Data/TemplateDataEncoder.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Data/TemplateDataEncoder.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateDataEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateDataEncoder.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Data/TemplateDataRepresentable.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Data/TemplateDataRepresentable.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateDataRepresentable~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateDataRepresentable.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Data/TemplateDataStorage.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Data/TemplateDataStorage.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateDataStorage~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateDataStorage.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Deprecated.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Deprecated.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Deprecated.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Pipeline/ASTCache.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Pipeline/ASTCache.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/ASTCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/ASTCache.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Pipeline/PlaintextRenderer.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Pipeline/PlaintextRenderer.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/PlaintextRenderer~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/PlaintextRenderer.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Pipeline/TemplateByteScanner.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Pipeline/TemplateByteScanner.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateByteScanner~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateByteScanner.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Pipeline/TemplateParser.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Pipeline/TemplateParser.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateParser.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Pipeline/TemplateRenderer.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Pipeline/TemplateRenderer.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateRenderer~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateRenderer.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Pipeline/TemplateSerializer.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Pipeline/TemplateSerializer.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateSerializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateSerializer.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Tag/Capitalize.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Tag/Capitalize.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Capitalize~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Capitalize.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Tag/Comment.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Tag/Comment.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Comment~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Comment.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Tag/Contains.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Tag/Contains.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Contains~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Contains.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Tag/Count.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Tag/Count.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Count~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Count.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Tag/DateFormat.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Tag/DateFormat.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/DateFormat~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/DateFormat.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Tag/Lowercase.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Tag/Lowercase.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Lowercase~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Lowercase.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Tag/Print.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Tag/Print.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Print~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Print.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Tag/Raw.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Tag/Raw.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Raw~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Raw.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Tag/TagContext.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Tag/TagContext.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TagContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TagContext.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Tag/TagRenderer.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Tag/TagRenderer.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TagRenderer~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TagRenderer.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Tag/Uppercase.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Tag/Uppercase.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Uppercase~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Uppercase.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Tag/Var.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Tag/Var.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Var~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Var.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Utilities/Exports.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Utilities/Exports.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Exports.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Utilities/HTMLEscape.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Utilities/HTMLEscape.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/HTMLEscape~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/HTMLEscape.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/Utilities/TemplateError.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/Utilities/TemplateError.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateError~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/TemplateError.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/View.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/View.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/View~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/View.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/ViewRenderer.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/ViewRenderer.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/ViewRenderer~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/TemplateKit.build/ViewRenderer.swiftdeps"
+  }
+}

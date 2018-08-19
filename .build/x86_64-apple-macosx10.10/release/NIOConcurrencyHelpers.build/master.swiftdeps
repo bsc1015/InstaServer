@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swift-4.1-RELEASE)"
+options: "6529376264cf3d3f94802b09bc1f95b3"
+build_time: [1534663574, 668449000]
+inputs:
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOConcurrencyHelpers/atomics.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOConcurrencyHelpers/lock.swift": [9223372036, 854775807]

@@ -1,0 +1,72 @@
+{
+  "": {
+    "dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/Crypto.d",
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/Crypto.o",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/master.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/BCrypt/BCryptDigest.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/BCrypt/BCryptDigest.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/BCryptDigest~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/BCryptDigest.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/Cipher/Cipher.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/Cipher~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/Cipher.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/CipherAlgorithm.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/Cipher/CipherAlgorithm.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/CipherAlgorithm~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/CipherAlgorithm.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Digest/Digest.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/Digest/Digest.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/Digest~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/Digest.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Digest/DigestAlgorithm.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/Digest/DigestAlgorithm.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/DigestAlgorithm~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/DigestAlgorithm.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/MAC/HMAC.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/MAC/HMAC.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/HMAC~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/HMAC.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/RSA/RSA.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/RSA/RSA.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/RSA~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/RSA.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/RSA/RSAKey.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/RSA/RSAKey.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/RSAKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/RSAKey.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/RSA/RSAPadding.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/RSA/RSAPadding.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/RSAPadding~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/RSAPadding.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/CryptoRandom.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/Random/CryptoRandom.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/CryptoRandom~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/CryptoRandom.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Utilities/CryptoError.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/Utilities/CryptoError.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/CryptoError~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/CryptoError.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Utilities/Deprecated.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/Utilities/Deprecated.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/Deprecated.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Utilities/Exports.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/Utilities/Exports.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Crypto.build/Exports.swiftdeps"
+  }
+}

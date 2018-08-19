@@ -1,0 +1,52 @@
+{
+  "": {
+    "dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/FluentSQL.d",
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/FluentSQL.o",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/master.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentSQL/Exports.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/Exports.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/Exports.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentSQL/FluentSQLQuery.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/FluentSQLQuery.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/FluentSQLQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/FluentSQLQuery.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentSQL/FluentSQLSchema.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/FluentSQLSchema.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/FluentSQLSchema~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/FluentSQLSchema.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentSQL/QueryBuilder+GroupBy.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/QueryBuilder+GroupBy.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/QueryBuilder+GroupBy~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/QueryBuilder+GroupBy.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentSQL/SQL+Contains.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/SQL+Contains.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/SQL+Contains~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/SQL+Contains.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentSQL/SQL+JoinSupporting.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/SQL+JoinSupporting.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/SQL+JoinSupporting~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/SQL+JoinSupporting.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentSQL/SQL+QuerySupporting.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/SQL+QuerySupporting.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/SQL+QuerySupporting~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/SQL+QuerySupporting.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentSQL/SQL+SchemaSupporting.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/SQL+SchemaSupporting.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/SQL+SchemaSupporting~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/SQL+SchemaSupporting.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentSQL/SchemaBuilder+Field.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/SchemaBuilder+Field.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/SchemaBuilder+Field~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/FluentSQL.build/SchemaBuilder+Field.swiftdeps"
+  }
+}

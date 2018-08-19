@@ -1,0 +1,22 @@
+version: "Apple Swift version 4.1 (swift-4.1-RELEASE)"
+options: "447a6483d64bf097f152a39618355ae9"
+build_time: [1534663623, 400793000]
+inputs:
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Exports.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validatable.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/ValidationError.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validations.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validator.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/ValidatorType.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/AndValidator.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/CharacterSetValidator.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/CountValidator.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/EmailValidator.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/EmptyValidator.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/InValidator.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/NilIgnoringValidator.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/NilValidator.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/NotValidator.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/OrValidator.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/RangeValidator.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/URLValidator.swift": [9223372036, 854775807]

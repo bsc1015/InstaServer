@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.1 (swift-4.1-RELEASE)"
+options: "da4ca94cc01086171650630e993ede6f"
+build_time: [1534663623, 400683000]
+inputs:
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Exports.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/FormDataDecoder.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/FormDataEncoder.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartError.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartParser.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartPart.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartPartConvertible.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartSerializer.swift": [9223372036, 854775807]

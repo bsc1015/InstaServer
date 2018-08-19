@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swift-4.1-RELEASE)"
+options: "23695d846741fb6c697662e3a7ef0215"
+build_time: [1534663571, 209414000]
+inputs:
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOPriorityQueue/Heap.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOPriorityQueue/PriorityQueue.swift": [9223372036, 854775807]

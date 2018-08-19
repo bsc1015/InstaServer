@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.1 (swift-4.1-RELEASE)"
+options: "ebbe6350ac19a457a7b38ab7e11aa34f"
+build_time: [1534663609, 527449000]
+inputs:
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOWebSocket/Base64.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOWebSocket/SHA1.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOWebSocket/WebSocketErrorCodes.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOWebSocket/WebSocketFrame.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOWebSocket/WebSocketFrameDecoder.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOWebSocket/WebSocketFrameEncoder.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOWebSocket/WebSocketOpcode.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift": [9223372036, 854775807]
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOWebSocket/WebSocketUpgrader.swift": [9223372036, 854775807]

@@ -1,0 +1,92 @@
+{
+  "": {
+    "dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Authentication.d",
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Authentication.o",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/master.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/auth.git-9199502942084726963/Sources/Authentication/Authenticatable.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Authenticatable.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Authenticatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Authenticatable.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/auth.git-9199502942084726963/Sources/Authentication/AuthenticationCache.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/AuthenticationCache.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/AuthenticationCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/AuthenticationCache.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/auth.git-9199502942084726963/Sources/Authentication/AuthenticationProvider.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/AuthenticationProvider.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/AuthenticationProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/AuthenticationProvider.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/auth.git-9199502942084726963/Sources/Authentication/Basic/BasicAuthenticatable.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Basic/BasicAuthenticatable.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/BasicAuthenticatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/BasicAuthenticatable.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/auth.git-9199502942084726963/Sources/Authentication/Basic/BasicAuthenticationMiddleware.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Basic/BasicAuthenticationMiddleware.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/BasicAuthenticationMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/BasicAuthenticationMiddleware.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/auth.git-9199502942084726963/Sources/Authentication/Bearer/BearerAuthenticatable.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Bearer/BearerAuthenticatable.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/BearerAuthenticatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/BearerAuthenticatable.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/auth.git-9199502942084726963/Sources/Authentication/Bearer/BearerAuthenticationMiddleware.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Bearer/BearerAuthenticationMiddleware.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/BearerAuthenticationMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/BearerAuthenticationMiddleware.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/auth.git-9199502942084726963/Sources/Authentication/Exports.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Exports.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Exports.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/auth.git-9199502942084726963/Sources/Authentication/Password/PasswordAuthenticatable.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Password/PasswordAuthenticatable.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/PasswordAuthenticatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/PasswordAuthenticatable.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/auth.git-9199502942084726963/Sources/Authentication/Password/PasswordVerifier.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Password/PasswordVerifier.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/PasswordVerifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/PasswordVerifier.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/auth.git-9199502942084726963/Sources/Authentication/Persist/AuthenticationSessionsMiddleware.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Persist/AuthenticationSessionsMiddleware.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/AuthenticationSessionsMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/AuthenticationSessionsMiddleware.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/auth.git-9199502942084726963/Sources/Authentication/Persist/RedirectMiddleware.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Persist/RedirectMiddleware.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/RedirectMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/RedirectMiddleware.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/auth.git-9199502942084726963/Sources/Authentication/Persist/SessionAuthenticatable.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Persist/SessionAuthenticatable.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/SessionAuthenticatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/SessionAuthenticatable.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/auth.git-9199502942084726963/Sources/Authentication/Token/TokenAuthenticatable.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Token/TokenAuthenticatable.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/TokenAuthenticatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/TokenAuthenticatable.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/auth.git-9199502942084726963/Sources/Authentication/Token/TokenAuthenticationMiddleware.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Token/TokenAuthenticationMiddleware.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/TokenAuthenticationMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/TokenAuthenticationMiddleware.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/auth.git-9199502942084726963/Sources/Authentication/Utilities/AuthenticationError.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Utilities/AuthenticationError.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/AuthenticationError~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/AuthenticationError.swiftdeps"
+  },
+  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/auth.git-9199502942084726963/Sources/Authentication/Utilities/GuardMiddleware.swift": {
+    "object": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/Utilities/GuardMiddleware.swift.o",
+    "swiftmodule": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/GuardMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/bc/InstaBackend/InstaServer/.build/x86_64-apple-macosx10.10/release/Authentication.build/GuardMiddleware.swiftdeps"
+  }
+}

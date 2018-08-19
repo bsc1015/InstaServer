@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1 (swift-4.1-RELEASE)"
+options: "076b134be0b22ce74440972c180b04d1"
+build_time: [1534663667, 664173000]
+inputs:
+  "/Users/bc/InstaBackend/InstaServer/Sources/Run/main.swift": [9223372036, 854775807]
