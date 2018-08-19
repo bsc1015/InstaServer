@@ -1,5 +1,0 @@
-version: "Apple Swift version 4.1 (swift-4.1-RELEASE)"
-options: "66afac22706c1f568ef8eb5de250f193"
-build_time: [1534663571, 582766000]
-inputs:
-  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/COperatingSystem/libc.swift": [9223372036, 854775807]

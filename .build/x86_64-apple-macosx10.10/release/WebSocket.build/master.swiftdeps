@@ -1,9 +1,0 @@
-version: "Apple Swift version 4.1 (swift-4.1-RELEASE)"
-options: "5135e953fe953de349267d4dced26f77"
-build_time: [1534663640, 380188000]
-inputs:
-  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/websocket.git-995660844808513665/Sources/WebSocket/Exports.swift": [9223372036, 854775807]
-  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/websocket.git-995660844808513665/Sources/WebSocket/WebSocket+Client.swift": [9223372036, 854775807]
-  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/websocket.git-995660844808513665/Sources/WebSocket/WebSocket+Server.swift": [9223372036, 854775807]
-  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/websocket.git-995660844808513665/Sources/WebSocket/WebSocket.swift": [9223372036, 854775807]
-  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/websocket.git-995660844808513665/Sources/WebSocket/WebSocketHandler.swift": [9223372036, 854775807]

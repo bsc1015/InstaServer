@@ -1,7 +1,0 @@
-version: "Apple Swift version 4.1 (swift-4.1-RELEASE)"
-options: "7f04f5959e38ec6dfde533dad5977d42"
-build_time: [1534663571, 223047000]
-inputs:
-  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Debugging/Debuggable.swift": [9223372036, 854775807]
-  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Debugging/Demangler.swift": [9223372036, 854775807]
-  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/core.git-9210800844849382486/Sources/Debugging/SourceLocation.swift": [9223372036, 854775807]

@@ -1,8 +1,0 @@
-version: "Apple Swift version 4.1 (swift-4.1-RELEASE)"
-options: "d2cf633ba7f535fe5b2568a8dfaa9ea1"
-build_time: [1534663600, 586881000]
-inputs:
-  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/crypto.git-7980259129511365902/Sources/Random/Array+Random.swift": [9223372036, 854775807]
-  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/crypto.git-7980259129511365902/Sources/Random/OSRandom.swift": [9223372036, 854775807]
-  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/crypto.git-7980259129511365902/Sources/Random/RandomProtocol.swift": [9223372036, 854775807]
-  "/Users/bc/InstaBackend/InstaServer/.build/checkouts/crypto.git-7980259129511365902/Sources/Random/URandom.swift": [9223372036, 854775807]
