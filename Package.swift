@@ -5,16 +5,16 @@ let package = Package(
     name: "InstaServer",
     dependencies: [
         // 💧 A server-side Swift web framework.
-        .package(url: "https://github.com/vapor/vapor.git", from: "3.0.8"),
+        .package(url: "https://github.com/vapor/vapor.git", .upToNextMajor(from: "3.0.8")),
         
-        .package(url: "https://github.com/vapor/auth.git", from: "2.0.1"),
+        .package(url: "https://github.com/vapor/auth.git", .upToNextMajor(from: "2.0.1")),
         
         // 🔵 Swift ORM (queries, models, relations, etc) built on SQLite 3.
-        .package(url: "https://github.com/vapor/fluent-sqlite.git", from: "3.0.0"),
+        .package(url: "https://github.com/vapor/fluent-sqlite.git", .upToNextMajor(from: "3.0.0")),
         
-        .package(url: "https://github.com/vapor/routing.git", from: "3.0.1"),
+        .package(url: "https://github.com/vapor/routing.git", .upToNextMajor(from: "3.0.1")),
         
-        .package(url: "https://github.com/vapor/multipart.git", from: "3.0.2"),
+        .package(url: "https://github.com/vapor/multipart.git", .upToNextMajor(from: "3.0.2")),
         
     ],
     targets: [
