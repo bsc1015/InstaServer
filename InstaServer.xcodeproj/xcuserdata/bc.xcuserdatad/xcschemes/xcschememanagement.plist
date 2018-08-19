@@ -32,12 +32,12 @@
 		<key>FluentPackageDescription.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>7</integer>
 		</dict>
 		<key>FluentSQLitePackageDescription.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>7</integer>
+			<integer>1</integer>
 		</dict>
 		<key>HTTPPackageDescription.xcscheme</key>
 		<dict>
@@ -112,12 +112,12 @@
 		<key>WebSocketPackageDescription.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>22</integer>
+			<integer>21</integer>
 		</dict>
 		<key>swift-nio-sslPackageDescription.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>21</integer>
+			<integer>22</integer>
 		</dict>
 		<key>swift-nioPackageDescription.xcscheme</key>
 		<dict>

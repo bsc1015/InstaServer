@@ -1,4 +1,4 @@
 module CNIOSHA1 {
-    umbrella "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio.git--5437097829949721943/Sources/CNIOSHA1/include"
+    umbrella "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio.git-8090079511699944317/Sources/CNIOSHA1/include"
     export *
 }
