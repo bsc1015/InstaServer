@@ -33,17 +33,12 @@ public func configure(_ config: inout Config, _ env: inout Environment, _ servic
 
     /// Configure migrations
     var migrations = MigrationConfig()
-    migrations.add(model: Todo.self, database: .sqlite)
     migrations.add(model: UserCredentials.self, database: .sqlite)
     migrations.add(model: Post.self, database: .sqlite)
     services.register(migrations)
 
     let authProvider = AuthenticationProvider()
     try services.register(authProvider)
-    
-    
-    
-    
     
     // create auth sessions middleware for user
     let session = UserCredentials.basicAuthMiddleware(using: PlaintextVerifier())
@@ -53,17 +48,4 @@ public func configure(_ config: inout Config, _ env: inout Environment, _ servic
     // create a route group wrapped by this middleware
     let auth = router.grouped(session)
     try authRoutes(auth)
-    
-    // create new route in this route group
-    auth.get("hello" as String)
-    { (request: Request) throws -> String in
-        let user = try request.requireAuthenticated(UserCredentials.self)
-        return "Hello, \(user.username)."
-    }
-    
-    // create new route in this route group
-    auth.get("users" as String)
-    { (request: Request) throws -> Future<Response> in
-        try UserCredentials.query(on: request).all().encode(for: request)
-    }
 }

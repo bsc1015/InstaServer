@@ -9,7 +9,6 @@ import FluentSQLite
 import Foundation
 import Vapor
 
-
 struct Post: SQLiteModel {
     var id: Int?
     let title: String
@@ -20,6 +19,11 @@ struct Post: SQLiteModel {
 }
 
 struct PostMediaRenditions: AnyModel {
+    let w320: URL?
+    let w640: URL?
+    let w750: URL?
+    let w1080: URL?
+    let w1125: URL?
     let original: URL
 }
 

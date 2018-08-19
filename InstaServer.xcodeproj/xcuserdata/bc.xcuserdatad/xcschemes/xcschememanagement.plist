@@ -17,12 +17,12 @@
 		<key>CorePackageDescription.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>4</integer>
 		</dict>
 		<key>CryptoPackageDescription.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>1</integer>
 		</dict>
 		<key>DatabaseKitPackageDescription.xcscheme</key>
 		<dict>
@@ -97,17 +97,17 @@
 		<key>URLEncodedFormPackageDescription.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>19</integer>
+			<integer>18</integer>
 		</dict>
 		<key>ValidationPackageDescription.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>18</integer>
+			<integer>20</integer>
 		</dict>
 		<key>VaporPackageDescription.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>20</integer>
+			<integer>19</integer>
 		</dict>
 		<key>WebSocketPackageDescription.xcscheme</key>
 		<dict>
