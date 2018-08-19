@@ -1,4 +1,4 @@
 module CNIOAtomics {
-    umbrella "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio.git-8090079511699944317/Sources/CNIOAtomics/include"
+    umbrella "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio.git-4996481868985639969/Sources/CNIOAtomics/include"
     export *
 }

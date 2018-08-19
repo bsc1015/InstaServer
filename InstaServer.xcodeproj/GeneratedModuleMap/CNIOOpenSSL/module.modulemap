@@ -1,4 +1,4 @@
 module CNIOOpenSSL {
-    umbrella "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio-ssl.git--1007345904283074249/Sources/CNIOOpenSSL/include"
+    umbrella "/Users/bc/InstaBackend/InstaServer/.build/checkouts/swift-nio-ssl.git-1934399557763103531/Sources/CNIOOpenSSL/include"
     export *
 }
